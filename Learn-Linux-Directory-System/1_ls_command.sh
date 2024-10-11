@@ -37,5 +37,7 @@
 
 #14. ls -d */	--{it'll list all directory}
 
-#15 man ls	--{you can say man is the dictionary it show all ls command}
+#15. ls -R	--{show directory structure}
+
+#16 man ls	--{you can say man is the dictionary it show all ls command}
 
